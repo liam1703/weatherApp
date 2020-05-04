@@ -1,0 +1,52 @@
+body{
+    background-color: #2db6e3;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.2rem;
+}
+
+#intro{
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.searchInput{
+    margin-bottom: 30px;
+    
+    text-align: center;
+}
+
+
+main{
+    text-align: center;
+}
+
+.card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid white;
+    
+    width: 40%;
+    height: 450px;
+}
+
+.temp{
+    font-size: 4rem;
+    margin-bottom: 10px;
+}
+
+.iconh{
+    height: 5rem;
+    width: 7rem;
+}
+
+.detail{
+    text-align: left;
+    margin-left: 20px;
+}
